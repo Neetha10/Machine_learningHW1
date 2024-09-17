@@ -1,6 +1,6 @@
 # Machine_learningHW1
 # PROBLEM 1
-#polyregg.m file
+# polyregg.m file
 function [err,model,errT] = polyregg(x,y,D,xT,yT)
 %
 % Finds a D-1 order polynomial fit to the data
