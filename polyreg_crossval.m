@@ -1,4 +1,4 @@
-# polyreg_crossval.m
+
 function [trainErrors, testErrors, bestD] = polyreg_crossval(x, y, maxDegree)
     % Splitting data into two halves randomly into training and testing
     % part
