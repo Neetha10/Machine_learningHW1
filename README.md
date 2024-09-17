@@ -1,6 +1,8 @@
 # Machine_learningHW1
 # PROBLEM 1
-# Open polyregg.m , crossval.m and untitled3.m to get the graph
+# link for the code files in problem 1
+# polyregg.m
+#
 
 
 
